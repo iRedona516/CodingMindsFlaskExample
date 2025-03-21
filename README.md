@@ -4,3 +4,7 @@ This is a complete example of a Flask server I would teach my students to develo
   - One scrapes an example website for quotes to perform sentiment analysis on
   - The other takes a user quote from the URL and runs a sentiment analysis run on it
 - Two prediction functions using SciKit's Linear and Polynomial Regression Learning Models
+
+TO-DO:
+- Upload example of JavaScript website to demonstrate Front-End Development example
+- Upload Thunkable app to demonstrate Mobile Front-End Development Example
